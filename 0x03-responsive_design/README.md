@@ -4,7 +4,7 @@
 |By: David Dias, Senior Software Engineer at HomeX|
 |:--|
 |Weight: 1|
-|Project will start Jul 19, 2023 6:00 AM, must end by Jan 21, 2023 6:00 AM|
+|Project will start Jul 19, 2023 6:00 AM, must end by Jul 21, 2023 6:00 AM|
 |Manual QA review must be done (request it when you are done with the project)|
 
 ## Concepts
